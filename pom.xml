@@ -10,7 +10,7 @@
 
     <groupId>no.cantara</groupId>
     <artifactId>dropwizard-hello-world-parent</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.1</version>
 
     <packaging>pom</packaging>
 
@@ -18,7 +18,7 @@
         <developerConnection>scm:git:git@github.com:Cantara/dropwizard-hello-world-parent.git</developerConnection>
         <connection>scm:git:git@github.com:Cantara/dropwizard-hello-world-parent.git</connection>
         <url>https://github.com/Cantara/dropwizard-hello-world-parent</url>
-      <tag>HEAD</tag>
+      <tag>dropwizard-hello-world-parent-1.1</tag>
   </scm>
 
     <repositories>
