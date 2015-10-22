@@ -10,7 +10,7 @@
 
     <groupId>no.cantara</groupId>
     <artifactId>dropwizard-hello-world-parent</artifactId>
-    <version>1.4-SNAPSHOT</version>
+    <version>4</version>
 
     <packaging>pom</packaging>
 
