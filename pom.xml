@@ -5,7 +5,7 @@
     <parent>
         <groupId>no.cantara.emi</groupId>
         <artifactId>parent</artifactId>
-        <version>4</version>
+        <version>5</version>
     </parent>
 
     <groupId>no.cantara</groupId>
@@ -13,6 +13,12 @@
     <version>4</version>
 
     <packaging>pom</packaging>
+
+    <modules>
+        <module>../dropwizard-hello-world-api</module>
+        <module>../dropwizard-hello-world-application</module>
+        <module>../dropwizard-hello-world-client</module>
+    </modules>
 
     <scm>
         <developerConnection>scm:git:git@github.com:Cantara/dropwizard-hello-world-parent.git</developerConnection>
